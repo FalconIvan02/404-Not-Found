@@ -1,0 +1,67 @@
+.encabezado p {
+    color: #333;
+    font-family: monospace;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -1.92px;
+    text-transform: uppercase;
+    margin: 1rem 0 0 0;
+}
+
+img {
+    width: 80vw;
+    height: 30vh;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 4rem 0 0 0;
+}
+section {
+    margin-left: 1rem;
+}
+h1 {
+    color: #333;
+    font-family: monospace;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+p {
+    color: #4f4f4f;
+    font-family: monospace;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    letter-spacing: 0px;
+    margin: 0 1rem 2rem 0rem;
+    border: 1px solid red;
+}
+input {
+    width: 216px;
+    height: 68px;
+    border: none;
+    font-family: monospace;
+    color: white;
+    background-color: #333;
+    margin-top: 2rem;
+}
+
+footer {
+    border: 1px red solid;
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    color: #bdbdbd;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
